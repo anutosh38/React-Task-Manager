@@ -1,3 +1,24 @@
+
+
+
+
+
+
+React App with Context API and React Hooks / Build a Task Manager using React / Context API / Hooks
+
+
+
+![Screenshot from 2020-08-10 21-40-28](https://user-images.githubusercontent.com/56691087/89809478-3a01f300-db59-11ea-92d6-1f22cfeda907.png)
+![Screenshot from 2020-08-10 21-39-57](https://user-images.githubusercontent.com/56691087/89809487-3e2e1080-db59-11ea-924b-50c3908dbb45.png)
+![Screenshot from 2020-08-10 21-39-05](https://user-images.githubusercontent.com/56691087/89809501-425a2e00-db59-11ea-8d6a-c2795ae0170c.png)
+![Screenshot from 2020-08-10 21-38-45](https://user-images.githubusercontent.com/56691087/89809511-44bc8800-db59-11ea-928b-6d85c0485ee3.png)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
