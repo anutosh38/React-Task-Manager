@@ -4,7 +4,7 @@
 
 
 
-React App with Context API and React Hooks / Build a Task Manager using React / Context API / Hooks
+React App with Context API and React Hooks / Build a Task Manager using React / Context API / Hooks, add, edit, delete feature for tasks
 
 
 
